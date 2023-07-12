@@ -1,2 +1,3 @@
-# installit
-Installit | Installers for every occasion
+<p align="center">
+  <img src = "installit-splash.png"/>
+</p>
